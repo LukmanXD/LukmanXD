@@ -6,6 +6,7 @@
 ### Hi there, I'm Marcelino Lukman 👋
 
 ### and here is my stats
+## 🏆 GitHub Trophies
 <p align="center"><img src="https://www.codewars.com/users/LukmanXD/badges/large"/><br /><br />
   <img src="https://github-readme-stats.vercel.app/api?username=LukmanXD&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LukmanXD&theme=monokai"/>
@@ -32,9 +33,6 @@ You can click the Preview link to take a look at your changes.
 ![](https://github-readme-stats.vercel.app/api?username=LukmanXD&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LukmanXD&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LukmanXD&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=LukmanXD&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
